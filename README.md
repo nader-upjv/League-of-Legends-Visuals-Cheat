@@ -1,3 +1,7 @@
+## IT DOES NOT COMPILE ###
+some stdafx.h problem 
+
+
 ###  League of Legends Cheat C++ 
 
 
